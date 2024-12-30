@@ -130,5 +130,5 @@ Need help? Have questions?
 ---
 
 <div align="center">
-Made with ❤️ by the Hytam Legam Team
+Made with ❤️ by southclown n xenoisgod
 </div>
